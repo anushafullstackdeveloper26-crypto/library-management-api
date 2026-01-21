@@ -1,0 +1,13 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# database
+*.mdf
+*.ldf
+*.db
+
+# secrets
+appsettings.Development.json
